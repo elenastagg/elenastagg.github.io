@@ -1,6 +1,6 @@
 # Elena Stagg Portfolio Site with Jekyll Theme 
 
-## This is a portfolio website using the Jekyll theme "Jekyll Resume" from [Nathan Randecker](https://github.com/nrandecker)
+## This is a portfolio website using the Jekyll theme "Minimal Resume" forked from [Mauricio Urraco](https://github.com/murraco/jekyll-theme-minimal-resume)
 
 
 
@@ -44,4 +44,4 @@ In order to compile the assets and run `Jekyll` locally you need to follow those
 
 # Credits
 
-- Theme forked from: [Nathan Randecker](https://github.com/nrandecker)
+- [Nathan Randecker](https://github.com/nrandecker)
