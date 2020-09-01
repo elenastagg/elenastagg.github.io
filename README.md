@@ -1,6 +1,8 @@
-# Jekyll Resume Theme
+## Elena Stagg Portfolio Site with Jekyll Theme 
 
-This is a portfolio website using the a Jekyll theme 
+# This is a portfolio website using the Jekyll theme "Jekyll Resume" from [Nathan Randecker](https://github.com/nrandecker)
+
+
 
 # Stack
 
